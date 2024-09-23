@@ -1,2 +1,2 @@
 # Programando-em-Assembly
-Repositório destinado para a Programação na linguagem Assembly/DOS
+Repositório destinado para a Programação na linguagem Assembly/DOS x86
