@@ -1,4 +1,4 @@
-# Programando em Assembly
+# Programando em Assembly x86 (8086)
 
 ## Descrição
 
@@ -20,7 +20,7 @@ Este repositório é dedicado à programação na linguagem Assembly para a arqu
 
 ## Explicação de todas as Atividades
 
-1. Atividade 1
+# 1. Atividade 1
 - **ATIV1_1.asm**: Código para imprimir uma variável do tipo DB no segmento .DATA, sendo válido ressaltar o uso do ''13,10,'', para pular uma linha sem precisar de outras instruções no código
 - **ATIV1_2.asm**: Código para imprimir um caracter inserido via instrução (MOV DL, ''?''). Além disso, também conta com a leitura e depois a impressão do caracter inserido utilizando a Tabela ASCII, presente neste repositório.
 - **ATIV1_3.asm**: Código para o usuário inserir um caracter e retornar o caracter, entretanto, acompanhado de mensagem de entrada e saída, ou seja, uma mistura das atividades anteriores.
